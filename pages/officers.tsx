@@ -59,7 +59,8 @@ export default function Contact() {
             position="Webmaster"
           />
           <Person name="Juli Huang" year={2027} position="Webmaster" />
-          <Person name="Alex Bloom" year={2027} position="Quant Gym Director" />
+          <Person name="Alex Bloom" year={2027} position="Quant Gym Co-Director" />
+          <Person name="Steve Mendeleev" year={2027} position="Quant Gym Co-Director" />
           <Person name="Sandra Yang" year={2028} position="ProCo Director" />
           <Person name="Hinson Chan" year={2027} position="GeoGuessr Director" />
           <Person name="Justin Gu" year={2027} position="Advisor" />
