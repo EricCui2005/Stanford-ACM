@@ -45,7 +45,7 @@ export default function Contact() {
           <Person name="Alexandra Kim" year={2028} position="Social Chair" />
           <Person
             name="Karolyn Cheng"
-            year={2026}
+            year={2028}
             position="Puzzle Hunt Director"
           />
           <Person
