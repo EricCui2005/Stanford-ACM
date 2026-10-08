@@ -62,14 +62,15 @@ export default function About() {
           challenging technical and social problems.
         </Paragraph>
         <Paragraph>
-          We'd love for you to join ACM! Signup form link:{' '}
-          <LinkComponent href="https://tinyurl.com/stanfordacm2025">
-            https://tinyurl.com/stanfordacm2025
+          We'd love for you to join ACM! Fill out our{' '}
+          <LinkComponent href="https://docs.google.com/forms/d/e/1FAIpQLSd9ZxXx6L5gAJarGDa_UjbfHVtZjhaKKgCPJfQLbsuprcGDSA/viewform">
+            Stanford ACM 2026 Interest Form
           </LinkComponent>
+          .
         </Paragraph>
         <IndexImage
-          src="/index/Stanford_ACM_Poster_2025.png"
-          alt="Stanford ACM 2025 Poster"
+          src="/index/Stanford_ACM_poster_2026.png"
+          alt="Stanford ACM 2026 Poster"
         />
       </Section>
 
@@ -87,7 +88,7 @@ export default function About() {
           Stanford NLP Group, and VMWare.
         </Paragraph>
         <Paragraph>
-          <i>Weekly meetings: Thursdays 7:30PM - 9:00PM at CoDA B90</i>
+          <i>Weekly meetings: TBD</i>
         </Paragraph>
 
         <SectionTitle href="/devlab">DevLab</SectionTitle>
@@ -97,7 +98,7 @@ export default function About() {
           on real projects to add to your portfolio!
         </Paragraph>
         <Paragraph>
-          <i>Weekly meetings: Mondays 7PM - 8PM. Location: TBD</i>
+          <i>Weekly meetings: TBD</i>
         </Paragraph>
 
         <SectionTitle href="/proco">ProCo</SectionTitle>
@@ -125,7 +126,7 @@ export default function About() {
           together to practice our skills and ACE the interviews 😤.
         </Paragraph>
         <Paragraph>
-          <i>Weekly meetings: Fridays 5PM - 6PM. Location: CoDa B60</i>
+          <i>Weekly meetings: TBD</i>
         </Paragraph>
 
         <SectionTitle href="/geoguessr">GeoGuessr</SectionTitle>
@@ -133,9 +134,7 @@ export default function About() {
           Join us for weekly GeoGuessr sessions — no experience necessary!
         </Paragraph>
         <Paragraph>
-          <i>
-            Weekly meetings: Wednesdays 8PM at Hammarskjöld (592 Alvarado Row)
-          </i>
+          <i>Weekly meetings: TBD</i>
         </Paragraph>
 
         <SectionTitle href="/escapeRoom">Escape Room</SectionTitle>
